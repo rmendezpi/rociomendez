@@ -17,7 +17,7 @@ website:
         text: Contact
     right:
       - icon: github
-        href: https://github.com/rmendezpi
+        href: https://rmendezpi.github.io
       - icon: envelope
         href: mailto:rocio.mendez.19@ucl.ac.uk
   page-footer:
