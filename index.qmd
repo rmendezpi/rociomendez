@@ -14,7 +14,7 @@ about:
       href: https://github.com/rmendezpi
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/roc%C3%ADo-m%C3%A9ndez-pineda/?originalSubdomain=uk
+      href: www.linkedin.com/in/rocio-mendez-pineda
     - text: ORCID
       href: https://orcid.org/0000-0002-0745-3358
 ---
