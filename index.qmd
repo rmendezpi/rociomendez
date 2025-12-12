@@ -29,7 +29,7 @@ My work has contributed to current UK parliamentary legislation, including evide
 
 - Policy evaluation and causal inference
 - Child welfare and safeguarding
-- Administrative data linkage (ECHILD)
+- Administrative data use for research (ECHILD)
 - Quasi-experimental methods
 
 ## Education
@@ -45,5 +45,5 @@ My work has contributed to current UK parliamentary legislation, including evide
 ## News
 
 - **November 2025**: Started as Research Assistant at UCL Division of Psychiatry and Centre for Longitudinal Studies for UCL Grand Challenges
-- **June 2025**: Policy report on Multi-Agency Safeguarding Hubs published by Foundations
 - **July 2025**: Attended Cambridge Econometrics Summer School (TWFE, DiD, ML for Causal Inference)
+- **June 2025**: [Evaluation report on Multi-Agency Safeguarding Hubs](https://foundations.org.uk/wp-content/uploads/2025/06/evaluation-of-multi-agency-safeguarding-hubs.pdf) published by Foundations 
